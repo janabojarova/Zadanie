@@ -1,0 +1,13 @@
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.csproj.AssemblyReference.cache
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.AssemblyInfoInputs.cache
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.AssemblyInfo.cs
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.csproj.CoreCompileInputs.cache
+/Users/janabojarova/Projects/PersonalityTestSwitch/bin/Debug/netcoreapp3.1/PersonalityTestSwitch.deps.json
+/Users/janabojarova/Projects/PersonalityTestSwitch/bin/Debug/netcoreapp3.1/PersonalityTestSwitch.runtimeconfig.json
+/Users/janabojarova/Projects/PersonalityTestSwitch/bin/Debug/netcoreapp3.1/PersonalityTestSwitch.runtimeconfig.dev.json
+/Users/janabojarova/Projects/PersonalityTestSwitch/bin/Debug/netcoreapp3.1/PersonalityTestSwitch.dll
+/Users/janabojarova/Projects/PersonalityTestSwitch/bin/Debug/netcoreapp3.1/PersonalityTestSwitch.pdb
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.dll
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.pdb
+/Users/janabojarova/Projects/PersonalityTestSwitch/obj/Debug/netcoreapp3.1/PersonalityTestSwitch.genruntimeconfig.cache
